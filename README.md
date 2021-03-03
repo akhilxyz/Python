@@ -3,7 +3,7 @@
 ## What is Python?
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
-![alt text](https://cdn.dribbble.com/users/241205/screenshots/4006901/artboard_4.png?compress=1&resize=800x600 "Logo Title Text 1")
+![alt text](https://cdn.dribbble.com/users/241205/screenshots/4006901/artboard_4.png?compress=1&resize=800x600 "Logo Python")
 
 
 
